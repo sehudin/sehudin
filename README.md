@@ -1,68 +1,147 @@
-# Hi there, I'm sehudin - seh Sotware Enggineer & Network Engineer 👋
-## About me:
-- 🔭 I’m currently working at [Mitra Powertell](https://www.powertel.co.id/)
-- 🌱 I'm learning c++, Nacivat, Cisco and Mikrotik
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: sehudin872@gmail.com
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sehudin  
+### Software Engineer & Network Engineer
 
-## Education:
-
-#### 1. [Politeknik piksi input serang ](https://piksiinputserang.ac.id/) | Bachelor of Manajemen informatika | serang `2021-2024 | status pelajar |
-   - Assistant lecturer in Citizenship Education
-   - Member of HMMI (Informatics Management Student Association)
-   - computer network simulation guidance
-#### 2. [SMA N 1 Carenang](https://sman1carenang.sch.id/) | MIPA | Carenang `2019-2020`
-	-Members of Paskibraka Kab. Serang-Banten
-	-PMI members
-	-Basketball Member
-	-Members of volleyball
-
-## Work Experience:
-#### 1. [PT. Global Media Data Prima](https://gmdp.net.id/) | Internet service partners | Serang `Dec'2019 - 2020`
-	- CCTV installation services
-	- LAN and Wifi installation
-	- Independent Village Internet
-	- Internet reseller
-	- Responsible for improving service well.
-	- able to operate using winbox, ubnt device, huawae and excel for daily routine
-#### 2. [PT. POWERTEL INDONESIA](https://www.powertel.co.id) | Internet service partners | serang `2020 - 2022`
-   - CCTV installation services
-	- LAN and Wifi installation
-	- Independent Village Internet
-	- Internet reseller
-	- Responsible for improving service well.
-	- able to operate using winbox, ubnt device, huawae and excel for daily routine
----
-
-### Languages and Tools:
-
-[<img align="left" alt="c++" width="30px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="winbox" width="30px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/10/icon512x512_frHXgiN.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="word" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="cisco" width="50px" src="https://seeklogo.com/images/C/cisco-networking-academy-logo-0B2566178E-seeklogo.com.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
-### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCZYDgLbyDbHFG8bBnrwlGmQ/featured)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCZYDgLbyDbHFG8bBnrwlGmQ/featured)
-&nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://m.facebook.com/Dyn.tigadua)
-[![website](./img/facebook-dark.svg)](https://m.facebook.com/Dyn.tigadua)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sehudin-3395a5203/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sehudin-3395a5203/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dyn002/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dyn002/)
+## 🚀 About Me
 
+💼 Currently working at  
+### :contentReference[oaicite:0]{index=0}
 
+🌱 Currently learning:
+- C++
+- Cisco Networking
+- MikroTik
+- Network Automation
+- Data Analyst
 
-[webdev]: https://github.com/sehudin/sehudin
+👯 Open to collaboration in:
+- Data Analyst
+- Network Infrastructure
+- Automation System
+
+💬 Ask me about:
+- Networking
+- MikroTik
+- CCTV
+- Web Development
+- ISP Infrastructure
+
+📧 Contact:
+- Email: `sehudin872@gmail.com`
+
+---
+
+# 🎓 Education
+
+## 🏫 :contentReference[oaicite:1]{index=1}
+**Bachelor of Management Informatics**  
+📍 Serang | `2021 - 2024`
+
+### Activities
+- Assistant Lecturer in Citizenship Education
+- Member of HMMI
+- Computer Network Simulation Guidance
+
+---
+
+## 🏫 :contentReference[oaicite:2]{index=2}
+**MIPA**  
+📍 Carenang | `2019 - 2020`
+
+### Activities
+- Paskibraka Member Kab. Serang - Banten
+- PMI Member
+- Basketball Member
+- Volleyball Member
+
+---
+
+# 💼 Work Experience
+
+## 🌐 :contentReference[oaicite:3]{index=3}
+**Internet Service Partner**  
+📍 Serang | `2019 - 2020`
+
+### Responsibilities
+- CCTV Installation
+- LAN & WiFi Installation
+- Village Internet Development
+- Internet Reseller
+- Network Maintenance & Troubleshooting
+- MikroTik Winbox Operation
+- Ubiquiti & Huawei Device Configuration
+- Excel Daily Reporting
+
+---
+
+## 🌐 :contentReference[oaicite:4]{index=4}
+**Internet Service Partner**  
+📍 Serang | `2020 - Present`
+
+### Responsibilities
+- CCTV Installation
+- Fiber Optic Network Installation
+- LAN & WiFi Deployment
+- ISP Infrastructure Support
+- Network Monitoring & Maintenance
+- MikroTik Administration
+- Ubiquiti & Huawei Device Configuration
+- Technical Support & Troubleshooting
+
+---
+
+# 🛠️ Tech Stack & Tools
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Mikrotik_Logo_%282019%29.svg" width="90"/>
+<img src="https://seeklogo.com/images/C/cisco-networking-academy-logo-0B2566178E-seeklogo.com.png" width="90"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sehudin&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehudin&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sehudin-3395a5203/">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/dyn002/">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
+</a>
+
+<a href="https://m.facebook.com/Dyn.tigadua">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCZYDgLbyDbHFG8bBnrwlGmQ/featured">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>
+</a>
+</p>
+
+---
+
+# ⚡ Motto
+
+> “Technology is not just about systems and networks,  
+> but about building solutions that help people.”
+
+---
