@@ -20,29 +20,7 @@
 <img src="https://img.shields.io/badge/Automation-System-38BDF8?style=for-the-badge"/>
 </p>
 
-<!-- CYBER LINE -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-<br>
-
-<!-- GITHUB STATS -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-
-
-</td>
-
-<td width="50%" align="center">
-
-
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <!-- TOP LANGUAGES -->
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehudin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff"/>
