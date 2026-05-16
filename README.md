@@ -75,16 +75,23 @@
 
 ---
 
+---
+
 # ⚡ NEURAL PROFILE
 
 <div align="center">
 
+<table>
+<tr>
+<td align="left">
+
 ```yaml
-👨‍💻 NAME        : SEHUDIN
-🚀 ROLE         : SOFTWARE ENGINEER
-🌐 SPECIALIST   : ISP & NETWORK SYSTEM
-⚡ FOCUS        : AUTOMATION • SECURITY • INFRASTRUCTURE
-🖥 PLATFORM     : LINUX SERVER
-📡 TECHNOLOGY   : BGP • FTTH • MIKROTIK • LARAVEL
-🔥 STATUS       : ONLINE
+👨‍💻 Name         : SEHUDIN
+🚀 Role         : Software Engineer
+🌐 Specialist   : ISP & Network System
+⚡ Focus        : Automation • Security • Infrastructure
+🖥 Platform     : Linux Server
+📡 Technology   : BGP • FTTH • MikroTik • Laravel
+🔥 Status       : Online
+🛰 Experience   : Network Automation & ISP Management
 🛰 EXPERIENCE   : NETWORK AUTOMATION & ISP MANAGEMENT
