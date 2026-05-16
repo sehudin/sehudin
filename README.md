@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=180&section=header&text=Welcome%20To%20My%20Sehudin Software Engineer • Network Engineer • ISP Infrastructure&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=180&section=header&text=Welcome%20To%20My%20Sehudin%20Software%20Engineer %20•%20Network%20Engineer%20•%20ISP%20Infrastructure&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 # SEHUDIN
 
