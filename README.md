@@ -20,13 +20,6 @@
 <img src="https://img.shields.io/badge/Automation-System-38BDF8?style=for-the-badge"/>
 </p>
 
-
-
-<!-- TOP LANGUAGES -->
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehudin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff"/>
-
-<br><br>
-
 <!-- PROFILE INFO -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sehudin&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
