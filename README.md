@@ -3,8 +3,6 @@
 <!-- PREMIUM FUTURISTIC HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SEHUDIN&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20•%20NETWORK%20ENGINEER%20•%20ISP%20INFRASTRUCTURE&descAlignY=60&descSize=20&color=0:020617,25:0F172A,60:0EA5E9,100:2563EB"/>
 
-<br>
-
 <!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Modern+Digital+Infrastructure"/>
 <!-- PREMIUM BADGES -->
