@@ -27,6 +27,7 @@ Specialty : MikroTik • Linux • Networking
 Location  : Indonesia
 
 <div align="center">
+</div>
 
 # ⚡ Tech Stack & Infrastructure
 
