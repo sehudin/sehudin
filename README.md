@@ -36,7 +36,7 @@
 
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sehudin&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
 
 </td>
 </tr>
