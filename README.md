@@ -1,4 +1,4 @@
-# Hi there, I'm sehudin - seh [sehudin](https://www.youtube.com/channel/UCZYDgLbyDbHFG8bBnrwlGmQ/featured) 👋
+# Hi there, I'm sehudin - seh Sotware Enggineer & Network Engineer 👋
 ## About me:
 - 🔭 I’m currently working at [Mitra Powertell](https://www.powertel.co.id/)
 - 🌱 I'm learning c++, Nacivat, Cisco and Mikrotik
