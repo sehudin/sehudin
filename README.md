@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>SEHUDIN - Portfolio</title>
+<title>SEHUDIN MOBILE UI</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
@@ -19,125 +19,139 @@
 body{
     font-family:'Poppins',sans-serif;
     background:#050816;
-    color:white;
     overflow-x:hidden;
+    color:white;
 }
 
-/* Background Animation */
+/* BACKGROUND */
 
-.bg-animation{
+.bg{
     position:fixed;
     width:100%;
     height:100%;
+    top:0;
+    left:0;
     z-index:-1;
     overflow:hidden;
 }
 
-.circle{
+.bg span{
     position:absolute;
+    display:block;
     border-radius:50%;
-    background:rgba(14,165,233,0.12);
-    animation:float 10s infinite linear;
+    background:rgba(14,165,233,0.15);
+    animation:animate 20s linear infinite;
+    bottom:-150px;
 }
 
-.circle:nth-child(1){
-    width:250px;
-    height:250px;
-    top:10%;
-    left:-5%;
+.bg span:nth-child(1){
+    left:10%;
+    width:80px;
+    height:80px;
+    animation-duration:12s;
 }
 
-.circle:nth-child(2){
-    width:180px;
-    height:180px;
-    bottom:10%;
-    right:-5%;
-}
-
-.circle:nth-child(3){
+.bg span:nth-child(2){
+    left:30%;
     width:120px;
     height:120px;
-    top:50%;
+    animation-duration:18s;
+}
+
+.bg span:nth-child(3){
+    left:50%;
+    width:70px;
+    height:70px;
+    animation-duration:10s;
+}
+
+.bg span:nth-child(4){
     left:70%;
+    width:150px;
+    height:150px;
+    animation-duration:25s;
 }
 
-@keyframes float{
+.bg span:nth-child(5){
+    left:90%;
+    width:100px;
+    height:100px;
+    animation-duration:15s;
+}
+
+@keyframes animate{
     0%{
-        transform:translateY(0px) rotate(0deg);
+        transform:translateY(0) rotate(0deg);
+        opacity:0;
     }
-    50%{
-        transform:translateY(-30px) rotate(180deg);
+
+    10%{
+        opacity:1;
     }
+
     100%{
-        transform:translateY(0px) rotate(360deg);
+        transform:translateY(-1200px) rotate(720deg);
+        opacity:0;
     }
 }
 
-/* Container */
+/* PHONE STYLE */
 
 .container{
     width:100%;
-    max-width:450px;
+    max-width:430px;
     margin:auto;
     padding:20px;
 }
 
-/* Mobile Card */
-
-.phone-ui{
+.phone{
     background:rgba(255,255,255,0.05);
-    border:1px solid rgba(255,255,255,0.08);
-    border-radius:35px;
+    border:1px solid rgba(255,255,255,0.1);
     backdrop-filter:blur(20px);
+    border-radius:35px;
     overflow:hidden;
-    box-shadow:
-    0 0 30px rgba(14,165,233,0.15),
-    inset 0 0 20px rgba(255,255,255,0.03);
+    box-shadow:0 0 30px rgba(14,165,233,0.2);
 }
 
-/* Header */
+/* HEADER */
 
-.hero{
+.header{
     padding:40px 25px;
     text-align:center;
-    background:
-    linear-gradient(
+    background:linear-gradient(
         180deg,
-        rgba(14,165,233,0.18),
+        rgba(14,165,233,0.25),
         transparent
     );
 }
 
-.avatar{
-    width:110px;
-    height:110px;
+.profile{
+    width:120px;
+    height:120px;
     border-radius:50%;
     border:4px solid rgba(255,255,255,0.15);
     object-fit:cover;
-    margin-bottom:18px;
-    box-shadow:0 0 25px rgba(14,165,233,0.45);
+    box-shadow:0 0 30px rgba(14,165,233,0.5);
 }
 
-.hero h1{
+.header h1{
+    margin-top:20px;
     font-size:32px;
-    font-weight:700;
     letter-spacing:2px;
 }
 
-.hero p{
+.subtitle{
     margin-top:10px;
     color:#94A3B8;
-    font-size:14px;
     line-height:1.7;
+    font-size:14px;
 }
 
-/* Typing */
+/* TYPING */
 
 .typing{
-    color:#0EA5E9;
-    font-weight:600;
-    margin-top:18px;
-    height:24px;
+    margin-top:20px;
+    height:28px;
     overflow:hidden;
     position:relative;
 }
@@ -145,8 +159,11 @@ body{
 .typing span{
     position:absolute;
     width:100%;
+    left:0;
+    color:#0EA5E9;
+    font-weight:600;
     opacity:0;
-    animation:typing 12s infinite;
+    animation:slide 12s infinite;
 }
 
 .typing span:nth-child(2){
@@ -161,139 +178,136 @@ body{
     animation-delay:9s;
 }
 
-@keyframes typing{
+@keyframes slide{
     0%{
         opacity:0;
-        transform:translateY(20px);
+        transform:translateY(30px);
     }
+
     10%{
         opacity:1;
         transform:translateY(0);
     }
+
     25%{
         opacity:1;
     }
+
     35%{
         opacity:0;
-        transform:translateY(-20px);
+        transform:translateY(-30px);
     }
+
     100%{
         opacity:0;
     }
 }
 
-/* Stats */
-
-.stats{
-    display:flex;
-    justify-content:space-between;
-    padding:0 20px 25px;
-}
-
-.stat-card{
-    width:32%;
-    background:rgba(255,255,255,0.04);
-    border-radius:18px;
-    padding:18px 10px;
-    text-align:center;
-    border:1px solid rgba(255,255,255,0.05);
-}
-
-.stat-card h2{
-    color:#0EA5E9;
-    font-size:20px;
-}
-
-.stat-card span{
-    color:#94A3B8;
-    font-size:12px;
-}
-
-/* Section */
+/* SECTION */
 
 .section{
     padding:20px;
 }
 
-.section-title{
-    font-size:18px;
-    margin-bottom:18px;
-    font-weight:600;
+.title{
     color:#0EA5E9;
+    font-size:18px;
+    margin-bottom:15px;
+    font-weight:600;
 }
-
-/* Cards */
 
 .card{
     background:rgba(255,255,255,0.04);
-    border-radius:22px;
+    border:1px solid rgba(255,255,255,0.06);
+    border-radius:20px;
     padding:18px;
     margin-bottom:15px;
-    border:1px solid rgba(255,255,255,0.05);
     transition:0.3s;
 }
 
 .card:hover{
     transform:translateY(-5px);
-    box-shadow:0 0 20px rgba(14,165,233,0.15);
+    box-shadow:0 0 20px rgba(14,165,233,0.2);
 }
 
 .card h3{
     margin-bottom:8px;
-    font-size:17px;
 }
 
 .card p{
     color:#94A3B8;
-    font-size:13px;
     line-height:1.8;
+    font-size:14px;
 }
 
-/* Skills */
+/* STATS */
+
+.stats{
+    display:flex;
+    gap:12px;
+}
+
+.stat{
+    flex:1;
+    background:rgba(255,255,255,0.04);
+    border-radius:18px;
+    padding:20px 10px;
+    text-align:center;
+}
+
+.stat h2{
+    color:#0EA5E9;
+}
+
+.stat span{
+    font-size:12px;
+    color:#94A3B8;
+}
+
+/* SKILLS */
 
 .skills{
     display:flex;
     flex-wrap:wrap;
-    gap:12px;
+    gap:10px;
 }
 
 .skill{
-    padding:10px 16px;
-    background:rgba(14,165,233,0.1);
-    border:1px solid rgba(14,165,233,0.2);
+    padding:10px 15px;
     border-radius:999px;
+    background:rgba(14,165,233,0.12);
+    border:1px solid rgba(14,165,233,0.2);
     font-size:13px;
 }
 
-/* Social */
+/* SOCIAL */
 
-.socials{
+.social{
     display:flex;
     justify-content:center;
     gap:15px;
-    margin-top:20px;
+    margin-top:10px;
 }
 
-.socials a{
+.social a{
     width:50px;
     height:50px;
-    border-radius:18px;
+    border-radius:16px;
     background:rgba(255,255,255,0.05);
     display:flex;
     align-items:center;
     justify-content:center;
     text-decoration:none;
-    color:white;
     font-size:22px;
     transition:0.3s;
 }
 
-.socials a:hover{
+.social a:hover{
     background:#0EA5E9;
     transform:translateY(-5px);
 }
 
-/* Footer */
+/* FOOTER */
 
 .footer{
     text-align:center;
@@ -302,44 +316,33 @@ body{
     font-size:13px;
 }
 
-/* Responsive */
-
-@media(max-width:500px){
-
-    .container{
-        padding:10px;
-    }
-
-    .hero h1{
-        font-size:28px;
-    }
-
-}
-
 </style>
 </head>
 <body>
 
-<div class="bg-animation">
-    <div class="circle"></div>
-    <div class="circle"></div>
-    <div class="circle"></div>
+<!-- BACKGROUND -->
+<div class="bg">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
 </div>
 
 <div class="container">
 
-<div class="phone-ui">
+<div class="phone">
 
-    <!-- HERO -->
-    <div class="hero">
+    <!-- HEADER -->
+    <div class="header">
 
-        <img class="avatar" src="https://i.ibb.co/5M0K5xQ/profile.png">
+        <img class="profile" src="https://avatars.githubusercontent.com/u/9919?v=4">
 
         <h1>SEHUDIN</h1>
 
-        <p>
+        <div class="subtitle">
             Software Engineer • Network Engineer • ISP Infrastructure
-        </p>
+        </div>
 
         <div class="typing">
             <span>MikroTik Specialist</span>
@@ -351,21 +354,25 @@ body{
     </div>
 
     <!-- STATS -->
-    <div class="stats">
+    <div class="section">
 
-        <div class="stat-card">
-            <h2>5+</h2>
-            <span>Experience</span>
-        </div>
+        <div class="stats">
 
-        <div class="stat-card">
-            <h2>50+</h2>
-            <span>Projects</span>
-        </div>
+            <div class="stat">
+                <h2>5+</h2>
+                <span>Experience</span>
+            </div>
 
-        <div class="stat-card">
-            <h2>24/7</h2>
-            <span>Support</span>
+            <div class="stat">
+                <h2>50+</h2>
+                <span>Projects</span>
+            </div>
+
+            <div class="stat">
+                <h2>24/7</h2>
+                <span>Support</span>
+            </div>
+
         </div>
 
     </div>
@@ -373,15 +380,11 @@ body{
     <!-- ABOUT -->
     <div class="section">
 
-        <div class="section-title">
-            About Me
-        </div>
+        <div class="title">About Me</div>
 
         <div class="card">
             <p>
-                Passionate Software Engineer and Network Engineer focused on
-                building reliable infrastructure, ISP systems, automation,
-                Linux servers, and modern networking solutions.
+                Passionate Software Engineer and Network Engineer focused on building modern infrastructure, ISP systems, automation, Linux servers, and networking solutions.
             </p>
         </div>
 
@@ -390,22 +393,18 @@ body{
     <!-- SKILLS -->
     <div class="section">
 
-        <div class="section-title">
-            Tech Stack
-        </div>
+        <div class="title">Tech Stack</div>
 
         <div class="skills">
-
             <div class="skill">PHP</div>
             <div class="skill">Python</div>
             <div class="skill">React</div>
-            <div class="skill">MySQL</div>
             <div class="skill">Linux</div>
+            <div class="skill">MySQL</div>
             <div class="skill">MikroTik</div>
             <div class="skill">Cisco</div>
             <div class="skill">Huawei</div>
             <div class="skill">Ubiquiti</div>
-
         </div>
 
     </div>
@@ -413,25 +412,21 @@ body{
     <!-- EXPERIENCE -->
     <div class="section">
 
-        <div class="section-title">
-            Experience
-        </div>
+        <div class="title">Experience</div>
 
         <div class="card">
             <h3>PT. Powertel Indonesia</h3>
+
             <p>
-                Fiber Optic Installation, Network Monitoring,
-                MikroTik Administration, CCTV Installation,
-                LAN & WiFi Deployment.
+                Fiber Optic Installation, MikroTik Administration, Network Monitoring, LAN & WiFi Deployment, CCTV Installation.
             </p>
         </div>
 
         <div class="card">
             <h3>Global Media Data Prima</h3>
+
             <p>
-                Wireless Configuration, Internet Installation,
-                Huawei & Ubiquiti Setup,
-                Village Internet Project.
+                Wireless Configuration, Huawei & Ubiquiti Setup, Internet Installation, Village Internet Project.
             </p>
         </div>
 
@@ -440,33 +435,17 @@ body{
     <!-- CONTACT -->
     <div class="section">
 
-        <div class="section-title">
-            Contact
-        </div>
+        <div class="title">Connect</div>
 
-        <div class="card">
-            <p>
-                📧 sehudin872@gmail.com
-            </p>
-        </div>
+        <div class="social">
 
-        <div class="socials">
+            <a href="https://github.com/sehudin">💻</a>
 
-            <a href="#">
-                💼
-            </a>
+            <a href="https://instagram.com/dyn002">📸</a>
 
-            <a href="#">
-                📸
-            </a>
+            <a href="https://linkedin.com">💼</a>
 
-            <a href="#">
-                💻
-            </a>
-
-            <a href="#">
-                ▶
-            </a>
+            <a href="https://youtube.com">▶</a>
 
         </div>
 
