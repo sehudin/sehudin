@@ -44,6 +44,27 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=⚡+SYSTEM+ONLINE+⚡;⚡+NETWORK+STABLE+⚡;⚡+SECURITY+ACTIVE+⚡;⚡+DIGITAL+INFRASTRUCTURE+READY+⚡"/>
 
 <br><br>
+<p align="center">
+<a href="https://instagram.com/username" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://facebook.com/username" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+</a>
+
+<a href="https://linkedin.com/in/username" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://github.com/sehudin" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+</p>
 
 <!-- SNAKE ANIMATION -->
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
