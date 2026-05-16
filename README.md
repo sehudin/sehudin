@@ -1,14 +1,46 @@
 <div align="center">
 
 <!-- PREMIUM FUTURISTIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=SEHUDIN&fontSize=70&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20•%20NETWORK%20ENGINEER%20•%20ISP%20INFRASTRUCTURE&descAlignY=60&descSize=18&color=0:020617,25:0F172A,60:0EA5E9,100:2563EB"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SEHUDIN&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20•%20NETWORK%20ENGINEER%20•%20ISP%20INFRASTRUCTURE&descAlignY=60&descSize=20&color=0:020617,25:0F172A,60:0EA5E9,100:2563EB"/>
 
 <br>
 
 <!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Modern+Digital+Infrastructure"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Modern+Digital+Infrastructure"/>
 
 <br><br>
+
+<!-- SOCIAL MEDIA PREMIUM -->
+<h2>
+⚡ CONNECT WITH ME ⚡
+</h2>
+
+<p align="center">
+<a href="https://instagram.com/username" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://facebook.com/username" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+</a>
+
+<a href="https://linkedin.com/in/username" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://github.com/sehudin" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+</p>
+
+<!-- GLASS LINE -->
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:2563EB"/>
+
+<br>
 
 <!-- PREMIUM BADGES -->
 <p align="center">
@@ -36,6 +68,11 @@
 
 <br>
 
+<!-- CYBER STATUS -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=⚡+SYSTEM+ONLINE+⚡;⚡+NETWORK+STABLE+⚡;⚡+SECURITY+ACTIVE+⚡;⚡+DIGITAL+INFRASTRUCTURE+READY+⚡"/>
+
+<br><br>
+
 <!-- SNAKE ANIMATION -->
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -43,8 +80,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0EA5E9,100:2563EB"/>
 
 </div>
-
----
 
 ---
 
@@ -57,12 +92,13 @@
 <td align="left">
 
 ```yaml
-👨‍💻 Name         : SEHUDIN
-🚀 Role         : Software Engineer
-🌐 Specialist   : ISP & Network System
-⚡ Focus        : Automation • Security • Infrastructure
-🖥 Platform     : Linux Server
-📡 Technology   : BGP • FTTH • MikroTik • Laravel
-🔥 Status       : Online
-🛰 Experience   : Network Automation & ISP Management
-🛰 EXPERIENCE   : NETWORK AUTOMATION & ISP MANAGEMENT
+👨‍💻 NAME         : SEHUDIN
+🚀 ROLE          : SOFTWARE ENGINEER
+🌐 SPECIALIST    : ISP & NETWORK SYSTEM
+⚡ FOCUS         : AUTOMATION • SECURITY • INFRASTRUCTURE
+🖥 PLATFORM      : LINUX SERVER
+📡 TECHNOLOGY    : BGP • FTTH • MIKROTIK • LARAVEL
+🔥 STATUS        : ONLINE
+🛰 EXPERIENCE    : NETWORK AUTOMATION & ISP MANAGEMENT
+🧠 SKILLS        : SYSTEM ENGINEERING • MONITORING • CLOUD
+⚙️ DEVELOPMENT   : FULLSTACK WEB & NETWORK AUTOMATION
