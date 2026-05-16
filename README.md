@@ -6,12 +6,7 @@
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/Linux-Server-black?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/MikroTik-Networking-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Laravel-Web%20Developer-red?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Native-2563EB?style=for-the-badge&logo=react&logoColor=white"/>
-</p>
+
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=sehudin&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
