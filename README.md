@@ -38,12 +38,6 @@
 <img src="https://skillicons.dev/icons?i=linux,laravel,php,mysql,js,react,python,bash,github,vscode&theme=dark"/>
 </p>
 
-<br>
-
-<!-- CYBER STATUS -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=⚡+SYSTEM+ONLINE+⚡;⚡+NETWORK+STABLE+⚡;⚡+SECURITY+ACTIVE+⚡;⚡+DIGITAL+INFRASTRUCTURE+READY+⚡"/>
-
-<br><br>
 <p align="center">
 <a href="https://instagram.com/username" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
