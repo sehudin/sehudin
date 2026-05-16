@@ -70,7 +70,7 @@
 <td align="left">
 
 ```yaml
-👨‍💻 NAME         : SEHUDIN
+👨‍💻 NAME          : SEHUDIN
 🚀 ROLE          : SOFTWARE ENGINEER
 🌐 SPECIALIST    : ISP & NETWORK SYSTEM
 ⚡ FOCUS         : AUTOMATION • SECURITY • INFRASTRUCTURE
