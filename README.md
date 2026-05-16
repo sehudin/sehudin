@@ -20,11 +20,7 @@
 <!-- CYBER LINE -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-<!-- GITHUB STATS -->
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sehudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehudin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
+
 
 <p align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sehudin&theme=tokyonight&hide_border=true&background=00000000"/>
