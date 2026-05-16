@@ -1,30 +1,48 @@
 <div align="center">
 
-<!-- MODERN HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SEHUDIN&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20•%20Network%20Engineer%20•%20ISP%20Infrastructure&descAlignY=60&color=0:0F172A,50:0EA5E9,100:020617"/>
+<!-- FUTURISTIC BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SEHUDIN&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20•%20NETWORK%20ENGINEER%20•%20ISP%20INFRASTRUCTURE&descAlignY=58&color=0:020617,25:0F172A,50:0EA5E9,75:2563EB,100:38BDF8"/>
 
-<!-- SIMPLE TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System"/>
+<!-- PROFILE IMAGE -->
+<img src="https://i.ibb.co.com/r2R0sJj/cyber-boy.png" width="180"/>
 
 <br><br>
 
-<!-- MODERN BADGES -->
+<!-- TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Digital+Infrastructure"/>
+
+<br><br>
+
+<!-- GLASS BADGES -->
 <p align="center">
-<img src="https://img.shields.io/badge/Linux-Server-0F172A?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/MikroTik-RouterOS-0EA5E9?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/BGP-Core_Routing-2563EB?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/FTTH-ISP_Network-38BDF8?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-Fullstack-red?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Server-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MikroTik-RouterOS-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BGP-Core_Routing-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FTTH-ISP_Network-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Laravel-Fullstack-red?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-<!-- LINE -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+<!-- CYBER LINE -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<!-- PROFILE STATS -->
+<!-- STATS -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sehudin&label=Profile+Views&color=0EA5E9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/sehudin?label=Followers&style=flat-square&color=2563EB"/>
-<img src="https://img.shields.io/github/stars/sehudin?label=Stars&style=flat-square&color=38BDF8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sehudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sehudin&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehudin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
+
+<!-- PROFILE -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sehudin&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sehudin?label=Followers&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/stars/sehudin?label=Stars&style=for-the-badge&color=38BDF8"/>
 </p>
 
 <!-- SNAKE -->
@@ -34,12 +52,19 @@
 
 ---
 
-# ⚡ About Me
+# ⚡ NEURAL PROFILE
+
+<div align="center">
+
+<table>
+<tr>
+<td align="left">
 
 ```yaml
-Name       : SEHUDIN
-Role       : Software Engineer
-Focus      : ISP & Network Infrastructure
-Platform   : Linux Server
-Technology : MikroTik • BGP • FTTH • Laravel
-Status     : Online
+👨‍💻 NAME       : SEHUDIN
+🚀 ROLE       : SOFTWARE ENGINEER
+🌐 SPECIALIST : ISP & NETWORK SYSTEM
+⚡ FOCUS      : AUTOMATION & SECURITY
+🖥 PLATFORM   : LINUX SERVER
+📡 TECHNOLOGY : BGP • FTTH • MIKROTIK
+🔥 STATUS     : ONLINE
