@@ -48,7 +48,7 @@
 
 ---
 
-# ⚡ NEURAL PROFILE
+# PROFILE
 
 <div align="center">
 
