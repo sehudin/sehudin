@@ -7,13 +7,6 @@
 
 <!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Modern+Digital+Infrastructure"/>
-
-
-<!-- GLASS LINE -->
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:2563EB"/>
-
-<br>
-
 <!-- PREMIUM BADGES -->
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-Server-111827?style=for-the-badge&logo=linux&logoColor=38BDF8"/>
