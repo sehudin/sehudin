@@ -27,4 +27,3 @@ Focus     : ISP Infrastructure & Automation
 Specialty : MikroTik • Linux • Networking
 Location  : Indonesia
 
-<div align="center">
