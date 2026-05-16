@@ -8,27 +8,6 @@
 <!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Modern+Digital+Infrastructure"/>
 
-<p align="center">
-<a href="https://instagram.com/username" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<a href="https://facebook.com/username" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
-</a>
-
-<a href="https://linkedin.com/in/username" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://github.com/sehudin" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-</p>
 
 <!-- GLASS LINE -->
 <img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:2563EB"/>
