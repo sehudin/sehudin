@@ -3,10 +3,6 @@
 <!-- FUTURISTIC BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SEHUDIN&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20•%20NETWORK%20ENGINEER%20•%20ISP%20INFRASTRUCTURE&descAlignY=58&color=0:020617,25:0F172A,50:0EA5E9,75:2563EB,100:38BDF8"/>
 
-<!-- PROFILE IMAGE -->
-<img src="https://i.ibb.co.com/r2R0sJj/cyber-boy.png" width="180"/>
-
-<br><br>
 
 <!-- TYPING -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Digital+Infrastructure"/>
@@ -30,13 +26,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sehudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sehudin&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehudin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
 
 <!-- PROFILE -->
 <p align="center">
