@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- FUTURISTIC BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SEHUDIN&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20•%20NETWORK%20ENGINEER%20•%20ISP%20INFRASTRUCTURE&descAlignY=58&color=0:020617,25:0F172A,50:0EA5E9,75:2563EB,100:38BDF8"/>
+<!-- FUTURISTIC HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=SEHUDIN&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20•%20NETWORK%20ENGINEER%20•%20ISP%20INFRASTRUCTURE&descAlignY=60&color=0:020617,30:0F172A,60:0EA5E9,100:2563EB"/>
 
-
-<!-- TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Digital+Infrastructure"/>
+<!-- TYPING EFFECT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=MikroTik+Specialist;ISP+Infrastructure+Engineer;Linux+Server+Administrator;Automation+%26+Monitoring+System;Building+Future+Digital+Infrastructure"/>
 
 <br><br>
 
-<!-- GLASS BADGES -->
+<!-- MODERN BADGES -->
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-Server-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/MikroTik-RouterOS-0EA5E9?style=for-the-badge"/>
@@ -19,15 +18,19 @@
 </p>
 
 <!-- CYBER LINE -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-<!-- STATS -->
+<!-- GITHUB STATS -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sehudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sehudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehudin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sehudin&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
 
-<!-- PROFILE -->
+<!-- PROFILE INFO -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sehudin&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/sehudin?label=Followers&style=for-the-badge&color=2563EB"/>
@@ -44,10 +47,6 @@
 # ⚡ NEURAL PROFILE
 
 <div align="center">
-
-<table>
-<tr>
-<td align="left">
 
 ```yaml
 👨‍💻 NAME       : SEHUDIN
