@@ -30,9 +30,13 @@
 <tr border="none">
 <td width="50%" align="center">
 
-username=sehudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sehudin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff"/>
 
 </td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sehudin&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </td>
 </tr>
